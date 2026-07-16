@@ -2,7 +2,7 @@
 
 タイトル：The Circular Library (The Climbは旧名です)
 
-ジャンル：2Dアクション
+ジャンル：2Dローグライクアクション
 
 プラットフォーム：Windows11
 
