@@ -1,4 +1,4 @@
-# TheCircularLibrary
+# ReadMe
 
 タイトル：The Circular Library (The Climbは旧名です)
 
@@ -8,7 +8,7 @@
 
 プレイ時間目安：約1時間
 
-制作期間：約７か月（木土日祝、一部日にちを除く）
+制作期間：約７か月（木土日祝、一部日にちを除く　1日の平均作業時間：5時間）
 
 制作環境：Unity 6000.2.6f2
 
